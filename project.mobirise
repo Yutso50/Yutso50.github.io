@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "samueldeschenes.com",
-    "currentPage": "index.html",
+    "currentPage": "resume.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -62,7 +62,7 @@
       "settings": {
         "main": true,
         "title": "Samuel Deschênes EN",
-        "meta_descr": "",
+        "meta_descr": "Home page",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -799,7 +799,7 @@
     },
     "unreal.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Unreal engine narrative map",
         "title": "Unreal",
         "order": 8
       },
@@ -1939,7 +1939,7 @@
     },
     "Hive.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Third person shooter map",
         "title": "HIVE",
         "order": 6
       },
@@ -3184,7 +3184,7 @@
     },
     "Trackmania.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Racing track map",
         "title": "Trackmania",
         "order": 5
       },
@@ -4324,7 +4324,7 @@
     },
     "Portal.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Puzzle map",
         "title": "Portal 2",
         "order": 4
       },
@@ -5407,7 +5407,7 @@
     },
     "ACWroclaw.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Assassin's creed mission design",
         "title": "Wroclaw",
         "order": 3
       },
@@ -7122,7 +7122,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Contact me",
         "title": "Contact",
         "order": 1
       },
@@ -7694,7 +7694,7 @@
     },
     "resume.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "My resume",
         "title": "Resume",
         "order": 9
       },
@@ -8592,7 +8592,7 @@
     },
     "page9.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Third person shooter game design documents",
         "title": "HIVEGD",
         "order": 7
       },
