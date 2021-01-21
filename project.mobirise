@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "samueldeschenes.com",
-    "currentPage": "index.html",
+    "currentPage": "unreal.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1538,25 +1538,25 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flashinglightbpfolioo-1141x856.png",
+                "thumb": "@PROJECT_PATH@/assets/images/flashinglightbpfolioo-1141x856-800x600.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "Flashing Lights",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flashlightinputfolio-1141x856.png",
+                "thumb": "@PROJECT_PATH@/assets/images/flashlightinputfolio-1141x856-800x600.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Flashlight Input",
                 "active": false
               },
               {
@@ -1564,12 +1564,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flashlightbpfolio-1141x856.png",
+                "thumb": "@PROJECT_PATH@/assets/images/flashlightbpfolio-1141x856-800x600.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Flashlight BP",
                 "active": false
               },
               {
@@ -1577,65 +1577,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/triggerlvlfolio-1141x856.png",
+                "thumb": "@PROJECT_PATH@/assets/images/triggerlvlfolio-1141x856-800x600.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Level Trigger",
+                "active": true
               }
             ]
           }
